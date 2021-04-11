@@ -38,8 +38,9 @@
 .text-image1 {
 	position: absolute;
 	width: 306px;
+	height: 31px;
 	bottom: 246px; 
-	left: 530px;
+	left: 647px;
 	top: 230px;
 	color: #FFFFFF;
 	font-size: 22px;
@@ -48,8 +49,10 @@
 }
 .text-image2 {
 	position: absolute;
+	width: 200px;
+	height: 64px;
 	top: 260px;
-	left: 600px;
+	left: 700px;
 	font-size: 48px;
 	color: #FFFFFF;
 
@@ -67,38 +70,73 @@
 }
 .image1 {
 	vertical-align: top;
-	width: 636 px;
-	display: inline-block;
+	width: 636px;
+	height: 426px;
 	margin-left: 136px;
 	margin-right: 52px;
+
 }
 
-.image2 {
-	vertical-align: top;
-	width: 636px;
-	margin-right: 136px;
+.text1 {
 	display: inline-block;
+	vertical-align: middle;
+
+} 
+.image-text-1 {
+	display: inline-block;
+	width: 563px;
+	height: 94px;
+	font-size: 36px;
+    margin-top: 20px;
+    margin-left: 136px;
+    vertical-align: middle;
+
 }
-.text-one {
+.image-text-1-1 {
 	display: inline-block;
 	width: 563px;
 	height: 94px;
 	font-size: 36px;
 	margin-top: 20px;
-	margin-left: 136px;
+	margin-left: 180px;
+	vertical-align: middle;
+
 }
-.text2 {
-	display: inline-block;
-	font-size: 16px;
+.image2 {
+	vertical-align: top;
 	width: 636px;
-	height: 81px;
-	margin-left: 136px;
+	height: 426px;
+	margin-right: 136px;
+	margin-left: 52px;
+	display: inline-block;
+
 }
+
+.image-text-2 {
+	display: inline-block;
+	width: 600px; 
+	height: 81px;
+	font-size: 16px;
+	margin-top:22px ;
+	margin-left: 138px;
+
+} 
+
+.image-text-2-2 {
+	display: inline-block;
+	width: 600px;
+	height: 81px;
+	font-size: 16px;
+	margin-top: 22px;
+	margin-left: 150px;
+}
+
 .orange1 {
 	display: inline-block;
-
-
 }
+
+	
+
 .read-orange-1 {
 	display: inline-block;
 	width: 79px;
@@ -114,13 +152,37 @@
 	vertical-align: middle;
 	width: 47px;
 	height: 10px;
-	margin-top: 22px;
+	margin-top: 13px;
 	margin-left: 18px;
 	background-color: #FF7A00 ;
 
 }
+.read-orange-2 {
+	display: inline-block;
+	vertical-align: middle;
+	width: 79px;
+	height: 20px;
+	color: #FF7A00;
+	margin-top: 13px;
+	margin-left: 600px;
 
 
+
+}
+.second-orange {
+	display: inline-block;
+}
+
+.box1 {
+	display: inline-block;
+	vertical-align: middle;
+	width: 47px;
+	height: 10px;
+	margin-top: 13px;
+	margin-left: 18px;
+	background-color: #FF7A00;
+
+}
 
 
 
