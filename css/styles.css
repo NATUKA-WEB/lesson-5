@@ -325,7 +325,7 @@
 }
 .copyright {
 	position: absolute;
-	bottom: 0px;
+	/*bottom: 0px;*/
 	right: 300px;
 	font-size: 16px;
 	color: #A4A4A4;
