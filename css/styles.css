@@ -1,3 +1,9 @@
+.head-cover {
+	position: fixed;
+	top: 0;
+	left: 0;
+
+}
 .logo {
 	display: inline-block;
 	vertical-align: middle;
@@ -7,14 +13,47 @@
 
 .navigation {
 	display: inline-block;
-	vertical-align: middle;
+	vertical-align: middle
 	margin-left: 116px;
 
-
-} .nav-li {
+}
+.nav-li {
 	display: inline-block;
 	margin-left: 80px;
-	font-size: 16px;
+	font-style: 16px;
+}
+
+.head-picture {
+	position: relative;
+	width: 1680px;
+	
+
+}
+
+.picture1 {
+	width: 100%;
+	margin-top: 121px;
+
+}
+.text-image1 {
+	position: absolute;
+	bottom: 246px; 
+	left: 747px;
+	top: 230px;
+	color: #FFFFFF;
+	font-size: 22px;
 
 
 }
+.text-image2 {
+	position: absolute;
+	top: 260px;
+	left: 800px;
+	font-size: 48px;
+	color: #FFFFFF;
+
+}
+
+
+
+
