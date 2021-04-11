@@ -37,8 +37,9 @@
 }
 .text-image1 {
 	position: absolute;
+	width: 306px;
 	bottom: 246px; 
-	left: 747px;
+	left: 530px;
 	top: 230px;
 	color: #FFFFFF;
 	font-size: 22px;
@@ -48,12 +49,33 @@
 .text-image2 {
 	position: absolute;
 	top: 260px;
-	left: 800px;
+	left: 600px;
 	font-size: 48px;
 	color: #FFFFFF;
 
 }
+.title1 {
+	margin-top: 84px;
+	margin-left: 172px;
+}
+.section1 {
+	width: 1700px;
+	margin-top: 81px;
+	display: inline-block;
 
 
+}
+.image1 {
+	width: 636 px;
+	display: inline-block;
+	margin-left: 136px;
+	margin-right: 52px;
+}
+
+.image2 {
+	width: 636px;
+	margin-right: 210px;
+	display: inline-block;
+}
 
 
