@@ -155,6 +155,7 @@
 	margin-top: 13px;
 	margin-left: 18px;
 	background-color: #FF7A00 ;
+	font-size: 14px;
 
 }
 .read-orange-2 {
@@ -181,12 +182,34 @@
 	margin-top: 13px;
 	margin-left: 18px;
 	background-color: #FF7A00;
+	font-size: 14px;
+
 
 }
 
+.image3{
+	vertical-align: top;
+	width: 636px;
+	height: 426px;
+	margin-top: 64px;
+	margin-right: 52px;
+	margin-left: 136px;
 
 
 
+}
+
+.image4 {
+	vertical-align: top;
+	width: 636px;
+	height: 426px;
+	margin-top: 64px;
+	margin-right: 136px;
+	margin-left: 52px;
+	display: inline-block;
+
+
+}
 
 
 
